@@ -1,0 +1,66 @@
+.instruction {
+	border: 4px solid rgb(247, 190, 190);
+	padding: 2%;
+	background-color: white; 
+	opacity: 0.6; 
+	font-family: Arial, Helvetica, sans-serif; 
+	color: brown;
+}
+
+.randomNumber {
+	border: 4px solid rgb(247, 190, 190);
+	padding: 3%;
+	background-color: white; 
+	opacity: 0.6; 
+	color: green;
+	font-size: 200%; 
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+.totalWL { 
+	border: 4px solid rgb(247, 190, 190);
+	padding: 2%; 
+	background-color: white; 
+	opacity: 0.6; 
+	font-family: Arial, Helvetica, sans-serif; 
+ }
+
+ .totalScore {
+ 	border: 4px solid rgb(247, 190, 190);
+ 	background-color: white; 
+	opacity: 0.6; 
+	font-family: Arial, Helvetica, sans-serif; 
+	color: brown;
+
+ }
+
+ .scoreDisplay {
+ 	border: 4px solid rgb(247, 190, 190);
+	padding: 3%; 
+	background-color: white; 
+	opacity: 0.6; 
+	color: green;
+	font-size: 200%;
+	font-family: Arial, Helvetica, sans-serif,; 
+ }
+
+ .wallpaper { 
+	background-image: url("../images/wallpaper.jpg");
+	background-size: 100%;
+ }
+
+ .header { 
+  font-family: Arial, Helvetica, sans-serif; 
+  color: yellow;
+  }
+
+  .wins, .losses { 
+	padding: 2%;
+	color: black;
+	font-style: oblique;
+  }
+
+	.images100 {
+		width: 100px;
+		height: 100px;
+	}
